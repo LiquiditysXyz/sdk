@@ -1,5 +1,7 @@
 # 🚀 Liquiditys
 
+CA : 3rpd9ug6AwHi74r8tDCof3Kzo3gt8eMreLQKpWeZpump
+
 > Autonomous liquidity agent for the Solana ecosystem.
 
 Liquiditys is an autonomous agent that claims your Pump.fun creator fees and routes them through programmable strategies including buybacks, liquidity provisioning, token burns, and automated payouts.
